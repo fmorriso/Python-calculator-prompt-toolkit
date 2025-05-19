@@ -1,5 +1,5 @@
-# [name of project]
-Short description of project
+# Python Calculator - Prompt Toolkit
+Python Calculator using prompt_toolkit library
 
 ## Tools Used
 
